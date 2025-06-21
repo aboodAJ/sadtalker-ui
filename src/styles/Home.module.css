@@ -142,6 +142,7 @@
   font-size: 1rem;
   background: white;
   min-width: 150px;
+  color: #333;
 }
 
 .select:focus,
@@ -206,6 +207,7 @@
 .loading {
   text-align: center;
   padding: 2rem;
+  color: #333;
 }
 
 .spinner {
@@ -232,7 +234,7 @@
   padding: 2rem;
   background: #f8f9fa;
   border-radius: 15px;
-  margin-top: 2rem;
+  margin: 2rem auto
 }
 
 .videoTitle {
